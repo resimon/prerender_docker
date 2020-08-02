@@ -5,7 +5,7 @@ Should not be used for serving to normal clients, but could be used to serve for
 
 ## Only latest image is built:
 
-https://hub.docker.com/repository/docker/resimon/prerender
+https://hub.docker.com/r/resimon/prerender
 
 ## Source
 
