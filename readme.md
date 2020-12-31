@@ -10,3 +10,7 @@ https://hub.docker.com/r/resimon/prerender
 ## Source
 
 https://github.com/resimon/prerender_docker
+
+
+## Usage
+The software is delivered as is. No guarantees or liability
